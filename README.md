@@ -84,3 +84,9 @@ The probability density function (PDF) is estimated using **Histogram Density Es
 ## Conclusion
 
 The GAN successfully learns an **implicit, non-parametric representation** of the probability density of the transformed NO₂ variable using **samples alone**, without assuming any analytical or parametric form.
+
+---
+
+## Author
+
+Avnoor Kamboj
