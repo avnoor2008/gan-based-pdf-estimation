@@ -16,7 +16,7 @@ z = T(x) = x + a_r \sin(b_r x)
 
 Where:
 - **Roll Number:** 102317198
-- \( r = (102303830 \bmod 5) + 1 = 1 \)
+- \( r = (102317198 \bmod 5) + 1 = 1 \)
 - \( a_r = 0.5 \times r = 0.5 \)
 - \( b_r = 0.3 \times r = 0.3 \)
 
